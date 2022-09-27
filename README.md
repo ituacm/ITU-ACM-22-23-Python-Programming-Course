@@ -30,7 +30,7 @@ TBA
 
 ## Assistants @I.T.U
 
-| Name and Surname | Social  |
+| Name and Surname | Social Media |
 |:--:|:--:|
 | Mehmet Tolga Kılınçkaya #1 | [*LinkedIn*](https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/) |
 
