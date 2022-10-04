@@ -29,8 +29,9 @@
 
 ## Setup
 
-- Python 3.9.0 for [*Windows*](https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe), [*Mac OS X*](https://www.python.org/downloads/mac-osx/), [*Linux/UNIX*](https://www.python.org/downloads/source/)
-- VS Code for [*Windows*](https://code.visualstudio.com/docs/?dv=win), [*Mac OS X*](https://code.visualstudio.com/docs/?dv=osx), [*Linux/UNIX*](https://code.visualstudio.com/docs/?dv=linux64_deb)
+*Detailed setup instructions will be given during the first class.*
+- Conda 4.12.0 with Python 3.9 for [*Windows*](https://docs.conda.io/en/latest/miniconda.html#windows-installers), [*Mac OS X*](https://docs.conda.io/en/latest/miniconda.html#macos-installers), [*Linux/UNIX*](https://docs.conda.io/en/latest/miniconda.html#linux-installers)
+- VS Code for [*Windows*](https://code.visualstudio.com/docs/?dv=win), [*Mac OS X*](https://code.visualstudio.com/docs/?dv=osx), [*Linux/UNIX*](https://code.visualstudio.com/docs/?dv=linux64_deb) (*or any text editor of your choice*)
 
 
 <p align="center">
