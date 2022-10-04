@@ -2,13 +2,15 @@
 
 ## Prerequisities
 
--> Curiosity about programming
+➡ Curiosity about programming
 
--> Excitement to learn Python!
+➡ Excitement to learn Python!
+
+➡ **No prior programming knowledge is required!**
 
 ## Goals
 
--> This is an introductory level course aiming to help students start their programming journey and learn Python basics to lay a foundation for further study.
+➡ This is an introductory level course aiming to help students start their programming journey and learn Python basics to lay a foundation for further study.
   
 ## Syllabus
 
