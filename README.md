@@ -14,15 +14,15 @@
   
 ## Syllabus
 
-|     #           |Content                          | Instructor(s)                        | Time - Place
+|     #           | Topic                          | Instructor(s)                        | Time - Place
 | :----------------: | :-------------------------------: | :-----------------------------: | :-----------------------------: |
-| Week 1 | Introduction | [*Mehmet Arif Demirtaş*](linkedin.com/in/marifdemirtas) - [*Mehmet Tolga Kılınçkaya*](https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/)| 10.10.2022 18:00|
-| Week 2 | Primitive Data Types and Control Flow Structures | [*Mehmet Arif Demirtaş*](linkedin.com/in/marifdemirtas) - [*Mehmet Tolga Kılınçkaya*](https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/)| 17.10.2021 18:00|
-| Week 3 | Containers, Iterators and Generators | [*Mehmet Arif Demirtaş*](linkedin.com/in/marifdemirtas) - [*Mehmet Tolga Kılınçkaya*](https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/)|  24.10.2022 18:00|
-| Week 4 | Functions and File I/O | [*Mehmet Arif Demirtaş*](linkedin.com/in/marifdemirtas) - [*Mehmet Tolga Kılınçkaya*](https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/)|  31.10.2022 18:00|
+| Week 1 | Introduction | [*Mehmet Arif Demirtaş*](https://marifdemirtas.github.io) - [*Mehmet Tolga Kılınçkaya*](https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/)| 10.10.2022 18:00|
+| Week 2 | Primitive Data Types and Control Flow | [*Mehmet Arif Demirtaş*](https://marifdemirtas.github.io) - [*Mehmet Tolga Kılınçkaya*](https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/)| 17.10.2021 18:00|
+| Week 3 | Containers, Iterators and Generators | [*Mehmet Arif Demirtaş*](https://marifdemirtas.github.io) - [*Mehmet Tolga Kılınçkaya*](https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/)|  24.10.2022 18:00|
+| Week 4 | Functions and File I/O | [*Mehmet Arif Demirtaş*](https://marifdemirtas.github.io) - [*Mehmet Tolga Kılınçkaya*](https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/)|  31.10.2022 18:00|
 | Term Break | Contest | |  07.11.2022 |
-| Week 5 | Object Oriented Programming | [*Mehmet Arif Demirtaş*](linkedin.com/in/marifdemirtas) - [*Mehmet Tolga Kılınçkaya*](https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/)|  14.11.2021 18:00|
-| Week 6 | Exception Handling and Tests | [*Mehmet Arif Demirtaş*](linkedin.com/in/marifdemirtas) - [*Mehmet Tolga Kılınçkaya*](https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/)|  21.11.2021 18:00|
+| Week 5 | Object Oriented Programming | [*Mehmet Arif Demirtaş*](https://marifdemirtas.github.io) - [*Mehmet Tolga Kılınçkaya*](https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/)|  14.11.2021 18:00|
+| Week 6 | Wrap-up | [*Mehmet Arif Demirtaş*](https://marifdemirtas.github.io) - [*Mehmet Tolga Kılınçkaya*](https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/)|  21.11.2021 18:00|
 
 <p align="center"><b>Lectures will be around 2 hours</b></p>
 
