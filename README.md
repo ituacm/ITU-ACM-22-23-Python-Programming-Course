@@ -10,8 +10,14 @@
 
 ## Goals
 
-➡ This is an introductory level course aiming to help students start their programming journey and learn Python basics to lay a foundation for further study.
-  
+This is an introductory level course aiming to help students start their programming journey and learn Python basics to lay a foundation for further study.
+
+The students will:
+- represent basic real-world problems with Python.
+- become familiar with fundamental data types and control structures of Python.
+- organize their programs with functions and imports.
+- use object oriented programming techniques to model their environment.
+
 ## Syllabus
 
 |     #           | Topic                          | Instructor(s)                        | Time - Place
