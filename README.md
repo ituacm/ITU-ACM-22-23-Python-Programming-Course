@@ -1,5 +1,8 @@
 # ITU ACM 2022-2023 Python Programming Course
 
+Monday 18.00 @ EEB5102
+**The course will be in Turkish.**
+
 ## Prerequisities
 
 ➡ Curiosity about programming
