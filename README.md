@@ -2,37 +2,27 @@
 
 ## Prerequisities
 
-TBA
+-> Curiosity about programming
 
-## Goal
+-> Excitement to learn Python!
 
-TBA
+## Goals
+
+-> This is an introductory level course aiming to help students start their programming journey and learn Python basics to lay a foundation for further study.
   
 ## Syllabus
 
-|     #           |Content                          | Instructor                        | Time - Place
+|     #           |Content                          | Instructor(s)                        | Time - Place
 | :----------------: | :-------------------------------: | :-----------------------------: | :-----------------------------: |
-| Week 1 | Introduction | Mehmet Arif Demirtaş - Mehmet Tolga Kılınçkaya| 10.10.2022 18:00|
-| Week 2 | Primitive Data Types and Control Flow Structures | Mehmet Arif Demirtaş - Mehmet Tolga Kılınçkaya| 17.10.2021 18:00|
-| Week 3 | Containers, Iterators and Generators | Mehmet Arif Demirtaş - Mehmet Tolga Kılınçkaya|  24.10.2022 18:00|
-| Week 4 | Functions and File I/O | Mehmet Arif Demirtaş - Mehmet Tolga Kılınçkaya|  31.10.2022 18:00|
+| Week 1 | Introduction | [*Mehmet Arif Demirtaş*](linkedin.com/in/marifdemirtas) - [*Mehmet Tolga Kılınçkaya*](https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/)| 10.10.2022 18:00|
+| Week 2 | Primitive Data Types and Control Flow Structures | [*Mehmet Arif Demirtaş*](linkedin.com/in/marifdemirtas) - [*Mehmet Tolga Kılınçkaya*](https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/)| 17.10.2021 18:00|
+| Week 3 | Containers, Iterators and Generators | [*Mehmet Arif Demirtaş*](linkedin.com/in/marifdemirtas) - [*Mehmet Tolga Kılınçkaya*](https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/)|  24.10.2022 18:00|
+| Week 4 | Functions and File I/O | [*Mehmet Arif Demirtaş*](linkedin.com/in/marifdemirtas) - [*Mehmet Tolga Kılınçkaya*](https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/)|  31.10.2022 18:00|
 | Term Break | Contest | |  07.11.2022 |
-| Week 5 | Object Oriented Programming | Mehmet Arif Demirtaş - Mehmet Tolga Kılınçkaya|  14.11.2021 18:00|
-| Week 6 | Exception Handling and Tests | Mehmet Arif Demirtaş - Mehmet Tolga Kılınçkaya|  21.11.2021 18:00|
+| Week 5 | Object Oriented Programming | [*Mehmet Arif Demirtaş*](linkedin.com/in/marifdemirtas) - [*Mehmet Tolga Kılınçkaya*](https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/)|  14.11.2021 18:00|
+| Week 6 | Exception Handling and Tests | [*Mehmet Arif Demirtaş*](linkedin.com/in/marifdemirtas) - [*Mehmet Tolga Kılınçkaya*](https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/)|  21.11.2021 18:00|
 
-<p align="center"><b>Lessons will be around 2 hours</b></p>
-
-## Instructors @I.T.U
-
-| Name and Surname | Social Media |
-|:--:|:--:|
-| Mehmet Arif Demirtaş #4 | [*LinkedIn*](linkedin.com/in/marifdemirtas) |
-
-## Assistants @I.T.U
-
-| Name and Surname | Social Media |
-|:--:|:--:|
-| Mehmet Tolga Kılınçkaya #1 | [*LinkedIn*](https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/) |
+<p align="center"><b>Lectures will be around 2 hours</b></p>
 
 
 ## Setup
